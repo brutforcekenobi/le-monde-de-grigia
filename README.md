@@ -16,8 +16,8 @@
 
 ## Découvrir le monde
 
-{% content-ref url="le-monde/marenostre.md" %}
-[marenostre.md](le-monde/marenostre.md)
+{% content-ref url="le-monde/maeius.md" %}
+[maeius.md](le-monde/maeius.md)
 {% endcontent-ref %}
 
 {% content-ref url="le-monde/novanoxis.md" %}

@@ -45,7 +45,7 @@
 
 ## Le monde
 
-* [🏞 Marenostre](le-monde/marenostre.md)
+* [🏞 Maeius](le-monde/maeius.md)
 * [🌄 Novanoxis](le-monde/novanoxis.md)
 * [🏛 Organisations connues](le-monde/organisations-connues/README.md)
   * [— L'Alkhestra](le-monde/organisations-connues/lalkhestra.md)
@@ -54,3 +54,4 @@
   * [— Les gardes](le-monde/organisations-connues/les-gardes.md)
   * [— La guilde](le-monde/organisations-connues/la-guilde.md)
   * [— Autres organisations](le-monde/organisations-connues/autres-organisations.md)
+* [💡 Technomagie](le-monde/technomagie.md)
