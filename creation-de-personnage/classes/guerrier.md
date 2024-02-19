@@ -6,7 +6,7 @@ Il ne suffit pas de savoir jouer de la musique pour pouvoir se prétendre barde.
 
 ***
 
-<table><thead><tr><th width="194">Caractéristique</th><th>Bonus</th></tr></thead><tbody><tr><td>Charisme (cha)</td><td>+10</td></tr><tr><td>Magie (mag)</td><td>+5</td></tr></tbody></table>
+<table><thead><tr><th width="194">Caractéristique</th><th>Bonus</th></tr></thead><tbody><tr><td>Force (for)</td><td>+10</td></tr><tr><td>Constitution (con)</td><td>+5</td></tr></tbody></table>
 
 ## Spécificités de classe
 
@@ -14,23 +14,16 @@ Il ne suffit pas de savoir jouer de la musique pour pouvoir se prétendre barde.
 
 <details>
 
-<summary>Instrument de musique</summary>
+<summary>Choix d'une catégorie d'arme</summary>
 
-Choix de l’instrument de musique de prédilection (à choisir selon l’histoire et les origines du personnage)
+Parmi les choix possibles :
 
-</details>
-
-<details>
-
-<summary>Degré de célébrité</summary>
-
-Choix d’à quel point le personnage est connu et peut être reconnu, se joue au d100 selon le pourcentage choisi par le joueur puis au d2 pour savoir s’il est apprécié ou non.
-
-* **Inconnu :** personne ne le connaît
-* **Local :** connu dans dans sa ville / dans son village
-* **Régional :** connu dans toute la région
-* **Continentale :** connu sur tout son continent
-* **Mondiale :** à travers le monde entier
+* Armes à une main
+* Armes à deux mains
+* Deux armes
+* Armes à distance
+* Armes de poings
+* Arme d’hast
 
 </details>
 
@@ -40,17 +33,9 @@ Choix d’à quel point le personnage est connu et peut être reconnu, se joue a
 
 <details>
 
-<summary>Mythes &#x26; légendes</summary>
+<summary>Connaissance sur les armes</summary>
 
-La nature des mythes sera à définir à la création. Ca dépendra de l'espèce, des origines ainsi que de la backstory du personnage.
-
-</details>
-
-<details>
-
-<summary>Artistiques</summary>
-
-Le joueur doit choisir un milieu artistique dans lequel le personnage pourrait avoir des connaissances complémentaires (musique, peinture, sculpture, etc.)
+Connaissances sur les armes en général (techniques, maniement, théories, etc.)
 
 </details>
 
@@ -58,4 +43,4 @@ Le joueur doit choisir un milieu artistique dans lequel le personnage pourrait a
 
 ***
 
-<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>ART DE LA MUSIQUE [dex]</strong></td><td>Bonus dans la pratique de son instrument</td><td></td></tr><tr><td><strong>CHARME / INTIMIDATION [cha]</strong></td><td>Bonus pour charmer ou intimider un interlocuteur</td><td></td></tr><tr><td><strong>ESCAMOTAGE [dex]</strong></td><td>Bonus de dextérité pour voler à la tire</td><td></td></tr><tr><td><strong>MARCHANDAGE [cha/int]</strong></td><td>Bonus de charisme pour négocier des prix</td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>MAÎTRISE D’UNE CATÉGORIE D’ARME (au choix) [for / dex]</strong></td><td><strong>Obligatoire</strong> — Bonus de jet ou de dégât pour utiliser une catégorie d’arme</td><td></td></tr><tr><td><strong>PROTECTEUR [con]</strong></td><td>S’interpose devant une personne pour prendre un coup à sa place</td><td></td></tr><tr><td><strong>ESCAMOTAGE [dex]</strong></td><td>Bonus de dextérité pour voler à la tire</td><td></td></tr><tr><td><strong>MARCHANDAGE [cha/int]</strong></td><td>Bonus de charisme pour négocier des prix</td><td></td></tr></tbody></table>

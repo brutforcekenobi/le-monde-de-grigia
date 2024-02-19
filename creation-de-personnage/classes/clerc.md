@@ -6,7 +6,7 @@ Il ne suffit pas de savoir jouer de la musique pour pouvoir se prétendre barde.
 
 ***
 
-<table><thead><tr><th width="194">Caractéristique</th><th>Bonus</th></tr></thead><tbody><tr><td>Charisme (cha)</td><td>+10</td></tr><tr><td>Magie (mag)</td><td>+5</td></tr></tbody></table>
+<table><thead><tr><th width="194">Caractéristique</th><th>Bonus</th></tr></thead><tbody><tr><td>Volonté (vol)</td><td>+10</td></tr><tr><td>Constitution (con)</td><td>+5</td></tr></tbody></table>
 
 ## Spécificités de classe
 
@@ -14,23 +14,9 @@ Il ne suffit pas de savoir jouer de la musique pour pouvoir se prétendre barde.
 
 <details>
 
-<summary>Instrument de musique</summary>
+<summary>Choix de culte</summary>
 
-Choix de l’instrument de musique de prédilection (à choisir selon l’histoire et les origines du personnage)
-
-</details>
-
-<details>
-
-<summary>Degré de célébrité</summary>
-
-Choix d’à quel point le personnage est connu et peut être reconnu, se joue au d100 selon le pourcentage choisi par le joueur puis au d2 pour savoir s’il est apprécié ou non.
-
-* **Inconnu :** personne ne le connaît
-* **Local :** connu dans dans sa ville / dans son village
-* **Régional :** connu dans toute la région
-* **Continentale :** connu sur tout son continent
-* **Mondiale :** à travers le monde entier
+Choisir un culte et une divinité à vénérer parmi la liste disponible
 
 </details>
 
@@ -40,17 +26,17 @@ Choix d’à quel point le personnage est connu et peut être reconnu, se joue a
 
 <details>
 
-<summary>Mythes &#x26; légendes</summary>
+<summary>Son culte</summary>
 
-La nature des mythes sera à définir à la création. Ca dépendra de l'espèce, des origines ainsi que de la backstory du personnage.
+Selon la nature du culte et du rang dans le culte, les informations peuvent différer.
 
 </details>
 
 <details>
 
-<summary>Artistiques</summary>
+<summary>Les autres cultes</summary>
 
-Le joueur doit choisir un milieu artistique dans lequel le personnage pourrait avoir des connaissances complémentaires (musique, peinture, sculpture, etc.)
+Selon la nature des relations entre les deux cultes les informations peuvent différer.
 
 </details>
 
@@ -58,4 +44,4 @@ Le joueur doit choisir un milieu artistique dans lequel le personnage pourrait a
 
 ***
 
-<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>ART DE LA MUSIQUE [dex]</strong></td><td>Bonus dans la pratique de son instrument</td><td></td></tr><tr><td><strong>CHARME / INTIMIDATION [cha]</strong></td><td>Bonus pour charmer ou intimider un interlocuteur</td><td></td></tr><tr><td><strong>ESCAMOTAGE [dex]</strong></td><td>Bonus de dextérité pour voler à la tire</td><td></td></tr><tr><td><strong>MARCHANDAGE [cha/int]</strong></td><td>Bonus de charisme pour négocier des prix</td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>COMPÉTENCE DE CULTE [dépend]</strong></td><td>( <strong>obligatoire</strong> — voir la liste des compétences de culte pour le niveau 1 )</td><td></td></tr><tr><td><strong>PROTECTEUR [con]</strong></td><td>Permet de s’interposer pour prendre un coup à la place de quelqu’un d’autre.</td><td></td></tr><tr><td><strong>PRIÈRE [vol]</strong></td><td>Bonus de volonté pour prier son dieu.</td><td></td></tr><tr><td><strong>PREMIERS SOINS [int]</strong></td><td>Permet de soigner des blessures légères ou bénignes (nécessite des ressources).</td><td></td></tr></tbody></table>

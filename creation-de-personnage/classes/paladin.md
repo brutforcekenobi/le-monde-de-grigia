@@ -14,23 +14,9 @@ Il ne suffit pas de savoir jouer de la musique pour pouvoir se prétendre barde.
 
 <details>
 
-<summary>Instrument de musique</summary>
+<summary>Serment</summary>
 
-Choix de l’instrument de musique de prédilection (à choisir selon l’histoire et les origines du personnage)
-
-</details>
-
-<details>
-
-<summary>Degré de célébrité</summary>
-
-Choix d’à quel point le personnage est connu et peut être reconnu, se joue au d100 selon le pourcentage choisi par le joueur puis au d2 pour savoir s’il est apprécié ou non.
-
-* **Inconnu :** personne ne le connaît
-* **Local :** connu dans dans sa ville / dans son village
-* **Régional :** connu dans toute la région
-* **Continentale :** connu sur tout son continent
-* **Mondiale :** à travers le monde entier
+Le personnage a prêté serment à une entité supérieure&#x20;
 
 </details>
 
@@ -46,16 +32,8 @@ La nature des mythes sera à définir à la création. Ca dépendra de l'espèce
 
 </details>
 
-<details>
-
-<summary>Artistiques</summary>
-
-Le joueur doit choisir un milieu artistique dans lequel le personnage pourrait avoir des connaissances complémentaires (musique, peinture, sculpture, etc.)
-
-</details>
-
 ## Compétences de départ
 
 ***
 
-<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>ART DE LA MUSIQUE [dex]</strong></td><td>Bonus dans la pratique de son instrument</td><td></td></tr><tr><td><strong>CHARME / INTIMIDATION [cha]</strong></td><td>Bonus pour charmer ou intimider un interlocuteur</td><td></td></tr><tr><td><strong>ESCAMOTAGE [dex]</strong></td><td>Bonus de dextérité pour voler à la tire</td><td></td></tr><tr><td><strong>MARCHANDAGE [cha/int]</strong></td><td>Bonus de charisme pour négocier des prix</td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>ART DE LA MUSIQUE [dex]</strong></td><td>Bonus dans la pratique de son instrument</td><td></td></tr><tr><td><strong>PROTECTEUR [con]</strong></td><td>S’interpose devant une personne pour prendre un coup à sa place</td><td></td></tr><tr><td><strong>ESCAMOTAGE [dex]</strong></td><td>Bonus de dextérité pour voler à la tire</td><td></td></tr><tr><td><strong>MARCHANDAGE [cha/int]</strong></td><td>Bonus de charisme pour négocier des prix</td><td></td></tr></tbody></table>

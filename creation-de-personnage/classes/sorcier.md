@@ -6,7 +6,7 @@ Il ne suffit pas de savoir jouer de la musique pour pouvoir se prétendre barde.
 
 ***
 
-<table><thead><tr><th width="194">Caractéristique</th><th>Bonus</th></tr></thead><tbody><tr><td>Charisme (cha)</td><td>+10</td></tr><tr><td>Magie (mag)</td><td>+5</td></tr></tbody></table>
+<table><thead><tr><th width="194">Caractéristique</th><th>Bonus</th></tr></thead><tbody><tr><td>Volonté (vol)</td><td>+10</td></tr><tr><td>Magie (mag)</td><td>+5</td></tr></tbody></table>
 
 ## Spécificités de classe
 
@@ -40,17 +40,9 @@ Choix d’à quel point le personnage est connu et peut être reconnu, se joue a
 
 <details>
 
-<summary>Mythes &#x26; légendes</summary>
+<summary>Connaissances religieuses païennes</summary>
 
-La nature des mythes sera à définir à la création. Ca dépendra de l'espèce, des origines ainsi que de la backstory du personnage.
-
-</details>
-
-<details>
-
-<summary>Artistiques</summary>
-
-Le joueur doit choisir un milieu artistique dans lequel le personnage pourrait avoir des connaissances complémentaires (musique, peinture, sculpture, etc.)
+Connaissances des dieux mineurs et autres divinités païennes de sa région, plus particulièrement sa divinité.
 
 </details>
 
@@ -58,4 +50,4 @@ Le joueur doit choisir un milieu artistique dans lequel le personnage pourrait a
 
 ***
 
-<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>ART DE LA MUSIQUE [dex]</strong></td><td>Bonus dans la pratique de son instrument</td><td></td></tr><tr><td><strong>CHARME / INTIMIDATION [cha]</strong></td><td>Bonus pour charmer ou intimider un interlocuteur</td><td></td></tr><tr><td><strong>ESCAMOTAGE [dex]</strong></td><td>Bonus de dextérité pour voler à la tire</td><td></td></tr><tr><td><strong>MARCHANDAGE [cha/int]</strong></td><td>Bonus de charisme pour négocier des prix</td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>PRIÈRE (vol)</strong></td><td>Bonus de jet pour prier son dieu</td><td></td></tr></tbody></table>
