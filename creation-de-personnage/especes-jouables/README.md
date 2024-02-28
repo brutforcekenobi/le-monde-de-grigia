@@ -1,7 +1,9 @@
 # ✨ Espèces jouables
 
+Vous trouverez ici la liste des espèces présentes et jouables dans l'univers de Grigia et quelles sont leurs particularités.&#x20;
+
 {% hint style="info" %}
-tada.....
+C'est une liste non exhaustive, si vous voulez jouer une espèce qui n'est pas présente dans cette liste, il est possible de la créer et d'en décider les caractéristiques avec le MJ.
 {% endhint %}
 
 ## Liste des espèces jouables

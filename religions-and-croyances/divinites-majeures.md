@@ -1,4 +1,4 @@
-# ☀ Divinités majeures
+# ☀️ Divinités majeures
 
 Aujourd’hui vénérés à travers le monde entier, le panthéon majeur regroupe les dieux les plus puissants ainsi que ceux toujours vénérés par l’**Apostheosiya**.&#x20;
 
@@ -10,121 +10,131 @@ Le niveau de foi des personnages dépend de leur dévouement à leur divinité. 
 
 ***
 
-<details>
+### **—** Mareldra, divinité de la mer
 
-<summary><strong>MARELDRA —</strong> DIVINITÉ DE LA MER</summary>
+Templa en' tessa uuma dela ron bragollach tel'llach. Aa' i'sul nora lanne'lle bragol thalion tyela neuma lle maa quel. Lle merna aut farien mani ume lle quena Yavieba amin lava. Sen poika tuulo' 'kshapsae ro amin anta est kaim. Valanya ro Tel'Mithrim Yallume.
 
-#### Précepte
-
+{% tabs %}
+{% tab title="Précepte" %}
 Se baigner nu à minuit
+{% endtab %}
 
-#### Bénédictions
+{% tab title="Bénédiction" %}
+Bonus de +5 pour la navigation maritime
+{% endtab %}
 
-* Bonus pour la navigation maritime (manœuvrer, se repérer, etc.)&#x20;
-* Bonus pour approcher/dresser/communiquer avec des créatures marines (non-hostiles)
+{% tab title="Rites" %}
+— Création de charmes marins à base de coquillages et autres vestiges que la mer laisse sur les côtés, ils seraient porteur de chance ou de protection ;
 
-</details>
+— **Fêtes :** Le solstice d'hiver et le solstice d'été\
+Durant ses fêtes de nombreux stands de nourritures ainsi que des activités sur le thème de la pêche et de la navigation ont lieu. Il y a également de nombreux spectacle racontant contes et légendes de la mer ainsi que des danses qui imitent le mouvement des vagues.
+{% endtab %}
+{% endtabs %}
 
-<details>
+### **—** Promermeios, divinité des sciences et du progrès
 
-<summary><strong>PROMERMEIOS —</strong> DIVINITÉ DES SCIENCES ET DU PROGRÈS</summary>
+Templa en' tessa uuma dela ron bragollach tel'llach. Aa' i'sul nora lanne'lle bragol thalion tyela neuma lle maa quel. Lle merna aut farien mani ume lle quena Yavieba amin lava. Sen poika tuulo' 'kshapsae ro amin anta est kaim. Valanya ro Tel'Mithrim Yallume.
 
+{% tabs %}
+{% tab title="Précepte" %}
+Assouvir sa curiosité scientifique
+{% endtab %}
 
+{% tab title="Bénédiction" %}
+Bonus de +5 pour les actions d'expérimentations
+{% endtab %}
 
-</details>
+{% tab title="Rites" %}
 
-<details>
+{% endtab %}
+{% endtabs %}
 
-<summary><strong>HERTHILD —</strong> DIVINITÉ DU FOYER</summary>
+### **—** Herthild, divinité du foyer
 
+Templa en' tessa uuma dela ron bragollach tel'llach. Aa' i'sul nora lanne'lle bragol thalion tyela neuma lle maa quel. Lle merna aut farien mani ume lle quena Yavieba amin lava. Sen poika tuulo' 'kshapsae ro amin anta est kaim. Valanya ro Tel'Mithrim Yallume.
 
+### **—** Eunioa, divinité de la connaissance
 
-</details>
+Templa en' tessa uuma dela ron bragollach tel'llach. Aa' i'sul nora lanne'lle bragol thalion tyela neuma lle maa quel. Lle merna aut farien mani ume lle quena Yavieba amin lava. Sen poika tuulo' 'kshapsae ro amin anta est kaim. Valanya ro Tel'Mithrim Yallume.
 
-<details>
+{% tabs %}
+{% tab title="Précepte" %}
+Lui raconter vos voyages et vos découvertes, lui partager vos connaissances
+{% endtab %}
 
-<summary><strong>EUNOIA —</strong> DIVINITÉ DE LA CONNAISSANCE</summary>
+{% tab title="Bénédiction" %}
+Bonus de +5 pour les actions de connaissance
+{% endtab %}
 
+{% tab title="Rite" %}
+R
+{% endtab %}
+{% endtabs %}
 
+### **—** Sylvandor, divinité de la nature
 
-</details>
+Templa en' tessa uuma dela ron bragollach tel'llach. Aa' i'sul nora lanne'lle bragol thalion tyela neuma lle maa quel. Lle merna aut farien mani ume lle quena Yavieba amin lava. Sen poika tuulo' 'kshapsae ro amin anta est kaim. Valanya ro Tel'Mithrim Yallume.
 
-<details>
+{% tabs %}
+{% tab title="Précepte" %}
+Privilégier la vie de la nature (plantes, animaux, …) à celle des humains et autres créatures
+{% endtab %}
 
-<summary><strong>SYLVANDOR —</strong> DIVINITÉ DE LA NATURE</summary>
+{% tab title="Bénédiction" %}
 
+{% endtab %}
 
+{% tab title="Rite" %}
 
-</details>
+{% endtab %}
+{% endtabs %}
 
-<details>
+### **—** Yushen, divinité de la justice
 
-<summary><strong>YUSHEN —</strong> DIVINITÉ DE LA JUSTICE</summary>
+Templa en' tessa uuma dela ron bragollach tel'llach. Aa' i'sul nora lanne'lle bragol thalion tyela neuma lle maa quel. Lle merna aut farien mani ume lle quena Yavieba amin lava. Sen poika tuulo' 'kshapsae ro amin anta est kaim. Valanya ro Tel'Mithrim Yallume.
 
+{% tabs %}
+{% tab title="Précepte" %}
+Protéger les innocents et faire justice soit-même (même si ça va à l’encontre des lois, sauf à Gēnsaku)
+{% endtab %}
 
+{% tab title="Bénédiction" %}
 
-</details>
+{% endtab %}
 
-<details>
+{% tab title="Rite" %}
 
-<summary><strong>ZAREENAH —</strong> DIVINITÉ DE LA LUNE</summary>
+{% endtab %}
+{% endtabs %}
 
+### **—** Zareenah, divinité de la lune
 
+Templa en' tessa uuma dela ron bragollach tel'llach. Aa' i'sul nora lanne'lle bragol thalion tyela neuma lle maa quel. Lle merna aut farien mani ume lle quena Yavieba amin lava. Sen poika tuulo' 'kshapsae ro amin anta est kaim. Valanya ro Tel'Mithrim Yallume.
 
-</details>
+### **—** Nuru, divinité du soleil
 
-<details>
+Templa en' tessa uuma dela ron bragollach tel'llach. Aa' i'sul nora lanne'lle bragol thalion tyela neuma lle maa quel. Lle merna aut farien mani ume lle quena Yavieba amin lava. Sen poika tuulo' 'kshapsae ro amin anta est kaim. Valanya ro Tel'Mithrim Yallume.
 
-<summary><strong>NURU —</strong> DIVINITÉ DU SOLEIL</summary>
+### **—** Yuyake, divinité de la pluie
 
+Templa en' tessa uuma dela ron bragollach tel'llach. Aa' i'sul nora lanne'lle bragol thalion tyela neuma lle maa quel. Lle merna aut farien mani ume lle quena Yavieba amin lava. Sen poika tuulo' 'kshapsae ro amin anta est kaim. Valanya ro Tel'Mithrim Yallume.
 
+### **—** Skál, divinité de l'alcool et de la fête
 
-</details>
+Templa en' tessa uuma dela ron bragollach tel'llach. Aa' i'sul nora lanne'lle bragol thalion tyela neuma lle maa quel. Lle merna aut farien mani ume lle quena Yavieba amin lava. Sen poika tuulo' 'kshapsae ro amin anta est kaim. Valanya ro Tel'Mithrim Yallume.
 
-<details>
+### **—** Finstergeist, divinité de la mort
 
-<summary><strong>YUYAKE —</strong> DIVINITÉ DE LA PLUIE</summary>
+Templa en' tessa uuma dela ron bragollach tel'llach. Aa' i'sul nora lanne'lle bragol thalion tyela neuma lle maa quel. Lle merna aut farien mani ume lle quena Yavieba amin lava. Sen poika tuulo' 'kshapsae ro amin anta est kaim. Valanya ro Tel'Mithrim Yallume.
 
+### **— Vorhalen**, divinité de la guerre
 
+Templa en' tessa uuma dela ron bragollach tel'llach. Aa' i'sul nora lanne'lle bragol thalion tyela neuma lle maa quel. Lle merna aut farien mani ume lle quena Yavieba amin lava. Sen poika tuulo' 'kshapsae ro amin anta est kaim. Valanya ro Tel'Mithrim Yallume.
 
-</details>
+### **—** Uijeong, divinité de la discorde
 
-<details>
+Templa en' tessa uuma dela ron bragollach tel'llach. Aa' i'sul nora lanne'lle bragol thalion tyela neuma lle maa quel. Lle merna aut farien mani ume lle quena Yavieba amin lava. Sen poika tuulo' 'kshapsae ro amin anta est kaim. Valanya ro Tel'Mithrim Yallume.
 
-<summary><strong>SKÁL —</strong> DIVINITÉ DE L'ALCOOL ET DE LA FÊTE</summary>
+### **—** Ishjerte, divinité du froid
 
-
-
-</details>
-
-<details>
-
-<summary><strong>FINSTERGEIST —</strong> DIVINITÉ DE LA MORT</summary>
-
-
-
-</details>
-
-<details>
-
-<summary><strong>VORHALEN —</strong> DIVINITÉ DE LA GUERRE</summary>
-
-
-
-</details>
-
-<details>
-
-<summary><strong>UIJEONG —</strong> DIVINITÉ DE LA DISCORDE</summary>
-
-
-
-</details>
-
-<details>
-
-<summary><strong>ISHJERTE —</strong> DIVINITÉ DU FROID</summary>
-
-
-
-</details>
+Templa en' tessa uuma dela ron bragollach tel'llach. Aa' i'sul nora lanne'lle bragol thalion tyela neuma lle maa quel. Lle merna aut farien mani ume lle quena Yavieba amin lava. Sen poika tuulo' 'kshapsae ro amin anta est kaim. Valanya ro Tel'Mithrim Yallume.

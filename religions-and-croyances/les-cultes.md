@@ -1,6 +1,6 @@
 # 🙏 Les cultes
 
-Les cultes sont plus indépendant que l’Eglise et chaque culte suit ses propres préceptes, qu’ils soient bienveillants ou malveillants.
+Les cultes sont plus indépendant que l’Apostheosiya et chaque culte suit ses propres préceptes, qu’ils soient bienveillants ou malveillants. Ils ont tendance à vénérer les deux qui ne sont pas vénérés par les Églises des différentes cités.
 
 <details>
 
@@ -32,13 +32,13 @@ Niveau le plus bas de la hiérarchie, ce sont simplement les partisans du culte.
 
 ***
 
-Liste des dieux de la ruse et de la tromperie : N/A
+Liste des dieux de la ruse et de la tromperie : Uijeong (divinité de la discorde)
 
 ### **—** Culte de la guerre
 
 ***
 
-Liste des dieux de la guerre : N/A
+Liste des dieux de la guerre : Vorhalen (divinité de la guerre)
 
 ### **—** Culte de la lumière
 
@@ -62,10 +62,10 @@ Liste des dieux du savoir : N/A
 
 ***
 
-Liste des dieux de la tempête : N/A
+Liste des dieux de la tempête : Ishjerte (divinité du froid)
 
 ### **—** Culte de la vie
 
 ***
 
-Liste des dieux de la vie : N/A
+Liste des dieux de la vie : Finstergeist (divinité de la mort)

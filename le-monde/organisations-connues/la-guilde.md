@@ -1,2 +1,2 @@
-# — La guilde
+# 🪙 — La guilde
 
