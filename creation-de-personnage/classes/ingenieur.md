@@ -6,7 +6,7 @@ Il ne suffit pas de savoir jouer de la musique pour pouvoir se prétendre barde.
 
 ***
 
-<table><thead><tr><th width="194">Caractéristique</th><th>Bonus</th></tr></thead><tbody><tr><td>Charisme (cha)</td><td>+10</td></tr><tr><td>Magie (mag)</td><td>+5</td></tr></tbody></table>
+<table><thead><tr><th width="194">Caractéristique</th><th>Bonus</th></tr></thead><tbody><tr><td>Intelligence (int)</td><td>+10</td></tr><tr><td>Dextérité (dex)</td><td>+5</td></tr></tbody></table>
 
 ## Spécificités de classe
 
