@@ -1,16 +1,12 @@
 # 💥 — Ingénieur
 
-Il ne suffit pas de savoir jouer de la musique pour pouvoir se prétendre barde. Les bardes ressentent la musique, ses vibrations ainsi que la magie qu'elle peut contenir.&#x20;
+La magie ne se limite pas qu'à cette énergie intangible que certains arrivent à canaliser, c'est également la source d'énergie de toute la technologie de Grigia. Les ingénieurs n'utilisent pas la magie de la même façon que les mages et autres, ils la canalisent et l'insufflent à des créations afin de leur donner vie.
 
-## Bonus de classe
-
-***
+### Bonus de classe
 
 <table><thead><tr><th width="194">Caractéristique</th><th>Bonus</th></tr></thead><tbody><tr><td>Intelligence (int)</td><td>+10</td></tr><tr><td>Dextérité (dex)</td><td>+5</td></tr></tbody></table>
 
-## Spécificités de classe
-
-***
+## 📚 Spécificités de classe
 
 <details>
 
@@ -34,9 +30,7 @@ Choix d’à quel point le personnage est connu et peut être reconnu, se joue a
 
 </details>
 
-## Connaissances du monde
-
-***
+## 🎓 Connaissances du monde
 
 <details>
 
@@ -54,8 +48,6 @@ Le joueur doit choisir un milieu artistique dans lequel le personnage pourrait a
 
 </details>
 
-## Compétences de départ
+## 📖 Compétences de départ
 
-***
-
-<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>ART DE LA MUSIQUE [dex]</strong></td><td>Bonus dans la pratique de son instrument</td><td></td></tr><tr><td><strong>CHARME / INTIMIDATION [cha]</strong></td><td>Bonus pour charmer ou intimider un interlocuteur</td><td></td></tr><tr><td><strong>ESCAMOTAGE [dex]</strong></td><td>Bonus de dextérité pour voler à la tire</td><td></td></tr><tr><td><strong>MARCHANDAGE [cha/int]</strong></td><td>Bonus de charisme pour négocier des prix</td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>DETECTION DE LA TECHNOMAGIE (pou)</strong></td><td>Bonus dans la pratique de son instrument</td><td></td></tr><tr><td><strong>CHARME / INTIMIDATION [cha]</strong></td><td>Bonus pour charmer ou intimider un interlocuteur</td><td></td></tr><tr><td><strong>ESCAMOTAGE [dex]</strong></td><td>Bonus de dextérité pour voler à la tire</td><td></td></tr><tr><td><strong>MARCHANDAGE [cha/int]</strong></td><td>Bonus de charisme pour négocier des prix</td><td></td></tr></tbody></table>

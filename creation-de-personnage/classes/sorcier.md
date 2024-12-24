@@ -2,15 +2,11 @@
 
 Il ne suffit pas de savoir jouer de la musique pour pouvoir se prétendre barde. Les bardes ressentent la musique, ses vibrations ainsi que la magie qu'elle peut contenir.&#x20;
 
-## Bonus de classe
-
-***
+### Bonus de classe
 
 <table><thead><tr><th width="194">Caractéristique</th><th>Bonus</th></tr></thead><tbody><tr><td>Volonté (vol)</td><td>+10</td></tr><tr><td>Magie (mag)</td><td>+5</td></tr></tbody></table>
 
-## Spécificités de classe
-
-***
+## 📚 Spécificités de classe
 
 <details>
 
@@ -34,9 +30,7 @@ Choix d’à quel point le personnage est connu et peut être reconnu, se joue a
 
 </details>
 
-## Connaissances du monde
-
-***
+## 🎓 Connaissances du monde
 
 <details>
 
@@ -46,8 +40,6 @@ Connaissances des dieux mineurs et autres divinités païennes de sa région, pl
 
 </details>
 
-## Compétences de départ
-
-***
+## 📖 Compétences de départ
 
 <table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>PRIÈRE (vol)</strong></td><td>Bonus de jet pour prier son dieu</td><td></td></tr></tbody></table>

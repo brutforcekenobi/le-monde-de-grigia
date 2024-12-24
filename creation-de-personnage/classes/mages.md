@@ -1,41 +1,24 @@
 # 🔮 — Mages
 
-Il ne suffit pas de savoir jouer de la musique pour pouvoir se prétendre barde. Les bardes ressentent la musique, ses vibrations ainsi que la magie qu'elle peut contenir.&#x20;
+Les mages peuvent ressentir la magie et l'utiliser, mais contrairement à ceux qui peuvent puiser leurs pouvoirs d'une divinité ou d'un patron, les mages ont reçu une éducation académique tout à fait particulière afin d'en maîtriser les tenants et aboutissants.
 
-## Bonus de classe
-
-***
+### Bonus de classe
 
 <table><thead><tr><th width="194">Caractéristique</th><th>Bonus</th></tr></thead><tbody><tr><td>Magie (mag)</td><td>+10</td></tr><tr><td>Intelligence (int)</td><td>+5</td></tr></tbody></table>
 
-## Spécificités de classe
-
-***
+## 📚 Spécificités de classe
 
 <details>
 
-<summary>Domaine magique</summary>
+<summary>Choix de deux (2) sort</summary>
 
-Choix d’un domaine magique dans lequel le mage puise ses pouvoirs
-
-* Élémentaire (feu, air, terre, eau)
-* Nécromancie
-* Magie de lumière, de lune, d’ombre
-* Etc.
+* Ca peut être des sorts qui représentent l'utilisation spécifique de la magie (exemple : sort de lévitation, sort de soin) ;
+* Ou bien un domaine magique particulier (exemple : magie du feu), dans ce cas la magie aura des niveaux qui détermineront le coût de son utilisation ainsi que ce qu'il est possible d'en faire ;
+* À terme il est possible de combiner sort et de type de magie pour rendre une utilisation plus puissante ou moins coûteuse.
 
 </details>
 
-<details>
-
-<summary>Choix de 2 compétences de sort</summary>
-
-Sort qui consomment de l’énergie (à choisir dans la liste disponible ou à définir avec le MJ)
-
-</details>
-
-## Connaissances du monde
-
-***
+## 🎓 Connaissances du monde
 
 <details>
 
@@ -45,8 +28,6 @@ Dépend du domaine magique de prédilection.
 
 </details>
 
-## Compétences de départ
+## 📖 Compétences de départ
 
-***
-
-<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>DÉTECTION DE MAGIE [mag]</strong></td><td>Permet de détecter s’il y a eu une utilisation de la magie ou si de la magie est présente dans l’endroit où se trouve le personnage</td><td></td></tr><tr><td><strong>CHARME / INTIMIDATION [cha]</strong></td><td>Bonus pour charmer ou intimider un interlocuteur</td><td></td></tr><tr><td><strong>ESCAMOTAGE [dex]</strong></td><td>Bonus de dextérité pour voler à la tire</td><td></td></tr><tr><td><strong>MARCHANDAGE [cha/int]</strong></td><td>Bonus de charisme pour négocier des prix</td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>DÉTECTION DE MAGIE (pou)</strong></td><td>Permet de détecter s’il y a eu une utilisation de la magie ou si de la magie est présente dans l’endroit où se trouve le personnage</td><td></td></tr><tr><td><strong>CHARME / INTIMIDATION [cha]</strong></td><td>Bonus pour charmer ou intimider un interlocuteur</td><td></td></tr><tr><td><strong>ESCAMOTAGE [dex]</strong></td><td>Bonus de dextérité pour voler à la tire</td><td></td></tr><tr><td><strong>MARCHANDAGE [cha/int]</strong></td><td>Bonus de charisme pour négocier des prix</td><td></td></tr></tbody></table>

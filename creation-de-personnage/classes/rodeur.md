@@ -1,16 +1,12 @@
-# 🕸 — Rôdeur
+# 🕸️ — Rôdeur
 
 Il ne suffit pas de savoir jouer de la musique pour pouvoir se prétendre barde. Les bardes ressentent la musique, ses vibrations ainsi que la magie qu'elle peut contenir.&#x20;
 
-## Bonus de classe
-
-***
+### Bonus de classe
 
 <table><thead><tr><th width="194">Caractéristique</th><th>Bonus</th></tr></thead><tbody><tr><td>Dextérité (dex)</td><td>+10</td></tr><tr><td>Intelligence (int)</td><td>+5</td></tr></tbody></table>
 
-## Spécificités de classe
-
-***
+## 📚 Spécificités de classe
 
 <details>
 
@@ -34,7 +30,7 @@ Choix d’à quel point le personnage est connu et peut être reconnu, se joue a
 
 </details>
 
-## Connaissances du monde
+## 🎓 Connaissances du monde
 
 ***
 
@@ -54,8 +50,6 @@ Choisir parmi (peut être région natale ) :
 
 </details>
 
-## Compétences de départ
+## 📖 Compétences de départ
 
-***
-
-<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>TRAQUE (dex/per)</strong></td><td>Peut traquer quelque chose ou quelqu'un dans un environnement précis. Fonctionne aussi dans le cas de cacher ses traces.</td><td></td></tr><tr><td><strong>CAMOUFLAGE</strong></td><td>Permet d'utiliser son environnement pour se cacher.</td><td></td></tr><tr><td><strong>PIÈGES (dex/per)</strong></td><td>Permet de fabriquer (dex) ainsi que de repérer des pièges (per).</td><td></td></tr><tr><td><strong>ORIENTATION (per)</strong></td><td>Bonus pour se repérer dans un lieu.</td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>TRAQUE (dex/per)</strong></td><td>Peut traquer quelque chose ou quelqu'un dans un environnement précis. Fonctionne aussi dans le cas de cacher ses traces.</td><td></td></tr><tr><td><strong>CAMOUFLAGE (dex/per)</strong></td><td>Permet d'utiliser son environnement pour se cacher.</td><td></td></tr><tr><td><strong>PIÈGES (dex/per)</strong></td><td>Permet de fabriquer (dex) ainsi que de repérer des pièges (per).</td><td></td></tr><tr><td><strong>ORIENTATION (per)</strong></td><td>Bonus pour se repérer dans un lieu.</td><td></td></tr></tbody></table>
