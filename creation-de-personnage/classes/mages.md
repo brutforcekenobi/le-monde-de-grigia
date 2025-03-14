@@ -10,7 +10,7 @@ Les mages peuvent ressentir la magie et l'utiliser, mais contrairement à ceux q
 
 <details>
 
-<summary>Choix de deux (2) sort</summary>
+<summary>Choix de deux (2) sorts</summary>
 
 * Ca peut être des sorts qui représentent l'utilisation spécifique de la magie (exemple : sort de lévitation, sort de soin) ;
 * Ou bien un domaine magique particulier (exemple : magie du feu), dans ce cas la magie aura des niveaux qui détermineront le coût de son utilisation ainsi que ce qu'il est possible d'en faire ;

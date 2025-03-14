@@ -1,6 +1,6 @@
 # ✨ — Prêtre
 
-Il ne suffit pas de savoir jouer de la musique pour pouvoir se prétendre barde. Les bardes ressentent la musique, ses vibrations ainsi que la magie qu'elle peut contenir.&#x20;
+Les prêtres sont des membres de l'Apostheosiya qui ont choisi de dédier une partie de leur vie à leur divinité, ce sont par extension des personnes très religieuses qui ont très souvent des valeurs qui s'alignent avec celles de leur divinité.
 
 ### Bonus de classe
 
@@ -13,6 +13,8 @@ Il ne suffit pas de savoir jouer de la musique pour pouvoir se prétendre barde.
 <summary>Choix d'un dieu</summary>
 
 Choix du dieu que le prêtre prie parmi les dieu du panthéon majeur, le dieu peut être différent de la divinité de sa région.
+
+**Bonus de foi** : +1
 
 </details>
 

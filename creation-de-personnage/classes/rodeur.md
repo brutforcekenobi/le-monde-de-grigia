@@ -10,29 +10,17 @@ Il ne suffit pas de savoir jouer de la musique pour pouvoir se prétendre barde.
 
 <details>
 
-<summary>Instrument de musique</summary>
+<summary>Compagnon</summary>
 
-Choix de l’instrument de musique de prédilection (à choisir selon l’histoire et les origines du personnage)
-
-</details>
-
-<details>
-
-<summary>Degré de célébrité</summary>
-
-Choix d’à quel point le personnage est connu et peut être reconnu, se joue au d100 selon le pourcentage choisi par le joueur puis au d2 pour savoir s’il est apprécié ou non.
-
-* **Inconnu :** personne ne le connaît
-* **Local :** connu dans dans sa ville / dans son village
-* **Régional :** connu dans toute la région
-* **Continentale :** connu sur tout son continent
-* **Mondiale :** à travers le monde entier
+Possibilité de choisir un compagnon de petite taille ou de taille moyenne parmi ces possibilités, en essayant d'être raccord avec les origines de votre personnage :\
+— Rongeur (allant de souris à raton-laveur)\
+— Canin (à peu près toutes les races de chien)\
+— Félin (à peu près toutes les races de chat)\
+— Volatile (allant des oiseaux de compagnie à de petits rapaces)
 
 </details>
 
 ## 🎓 Connaissances du monde
-
-***
 
 <details>
 

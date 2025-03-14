@@ -12,7 +12,9 @@ Il ne suffit pas de savoir jouer de la musique pour pouvoir se prétendre barde.
 
 <summary>Choix de culte</summary>
 
-Choisir un culte et une divinité à vénérer parmi la liste disponible
+Choisir un culte et une divinité à vénérer parmi la liste disponible, il y a possibilité d'inventer une divinité et l'affilier aux cultes possibles.
+
+**Bonus de foi** : +1
 
 </details>
 

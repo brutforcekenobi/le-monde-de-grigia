@@ -1,6 +1,12 @@
 # 🥀 — Sorcier
 
-Il ne suffit pas de savoir jouer de la musique pour pouvoir se prétendre barde. Les bardes ressentent la musique, ses vibrations ainsi que la magie qu'elle peut contenir.&#x20;
+Les sorciers ont un lien très particulier avec la magie, ils ne la ressentent pas de la même façon que les mages. Les sorciers font généralement partie d'un coven liés très étroitement à une divinité qui leur permet de se lier à la magie.
+
+### Création de personnage
+
+* Choix d'une (1) compétence parmi les compétences de classes + une compétence au choix ;
+* Choix de deux sorts (à définir avec lea MJ) ;
+* Choisir (ou créer avec lea MJ) une divinité mineure à prier.
 
 ### Bonus de classe
 
@@ -10,23 +16,22 @@ Il ne suffit pas de savoir jouer de la musique pour pouvoir se prétendre barde.
 
 <details>
 
-<summary>Instrument de musique</summary>
+<summary>Coven</summary>
 
-Choix de l’instrument de musique de prédilection (à choisir selon l’histoire et les origines du personnage)
+Le personnage fait partie d'une communauté appelée un coven affilié à une divinité mineure (à définir par le joueur).
+
+**Bonus de foi** : +1\
+**Bonus de coven** : +5 de charisme avec les membres de son coven.
 
 </details>
 
 <details>
 
-<summary>Degré de célébrité</summary>
+<summary>Sorcellerie</summary>
 
-Choix d’à quel point le personnage est connu et peut être reconnu, se joue au d100 selon le pourcentage choisi par le joueur puis au d2 pour savoir s’il est apprécié ou non.
-
-* **Inconnu :** personne ne le connaît
-* **Local :** connu dans dans sa ville / dans son village
-* **Régional :** connu dans toute la région
-* **Continentale :** connu sur tout son continent
-* **Mondiale :** à travers le monde entier
+À choisir :\
+— Deux (2) sorts au choix (à définir avec lea MJ) ;\
+— Seulement une (1) compétence de départ (à compléter avec une (1) compétence au choix du joueur).
 
 </details>
 
@@ -42,4 +47,4 @@ Connaissances des dieux mineurs et autres divinités païennes de sa région, pl
 
 ## 📖 Compétences de départ
 
-<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>PRIÈRE (vol)</strong></td><td>Bonus de jet pour prier son dieu</td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>PRIÈRE (vol)</strong></td><td>Bonus de jet pour prier son dieu</td><td></td></tr><tr><td><strong>DETECTION DE LA MAGIE (pou)</strong></td><td>Permet de détecter s’il y a eu une utilisation de la magie ou si de la magie est présente dans l’endroit où se trouve le personnage</td><td></td></tr></tbody></table>
